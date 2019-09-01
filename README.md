@@ -13,6 +13,7 @@ To add:
 - Code for Linker
 - Code and tests for Heap
 - Bash scripts for auto-compiling
+- Bash scripts for running tests
 
 Additional topics to explore:
 - Building assembler
