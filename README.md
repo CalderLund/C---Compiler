@@ -14,7 +14,7 @@ To add:
 - Code and tests for Heap
 - Bash scripts for auto-compiling
 
-Additional topics do explore:
+Additional topics to explore:
 - Building assembler
 - Bootstrapping compiler
 - Additional features in code
