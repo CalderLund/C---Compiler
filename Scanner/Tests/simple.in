@@ -1,0 +1,20 @@
+// Simple scanner example
+
+int wain(int a, int b) {
+  int x = 0;
+  int y = 0;
+  
+  if (a >= b) {
+    x = a + b;
+    y = b;
+  } 
+  else {
+    x = a;
+    y = b - a;
+  }
+  if (x == 2) {
+    x = x + 1;
+  } else {}
+  
+  return a * b / x - y;
+}
