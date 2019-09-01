@@ -1,0 +1,12 @@
+int wain(int a, int b) {
+  if (a = = b) {
+    a = 0;
+  } else {}
+  
+  if (a == b) {
+    a = 1;
+  } else {}
+  
+  return a;
+}
+  
